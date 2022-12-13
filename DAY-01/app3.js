@@ -1,3 +1,5 @@
+//Kutuların içine javascript ile h1 elementleri ekleyelim
+
 let kutu1 = document.querySelector(".kutu1");
 let kutu2 = document.querySelector(".kutu2");
 let kutu3 = document.querySelector(".kutu3");

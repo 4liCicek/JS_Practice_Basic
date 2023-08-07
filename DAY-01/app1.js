@@ -8,7 +8,6 @@ console.error("Hataları gösterme amaçlı kullanılır."); */
 // console.log(confirm("Silmek istediğinizden emin misiniz ?"))
 
 //Örnek-3 :
-
 /* let uzunKenar = prompt("Uzun kenarı giriniz");
 let kisaKenar = prompt("Kısa kenarı giriniz");
 let alan = Number(uzunKenar)* Number(kisaKenar);
